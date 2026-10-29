@@ -16,6 +16,8 @@
 - Data Lake vs Data Warehouse vs Lakehouse — umieć porównać w 3 zdaniach.
 - **Control plane** (UI, notebooki, zarządzanie) vs **compute plane** (klastry, które przetwarzają dane).
 - ✅ Ćwiczenie: załóż konto, utwórz notebook, uruchom `spark.range(10).show()`.
+- typy plikow -> parquet, json, csv, excel, avro, jsonl, 
+- delta table
 
 🔗 **Dokumentacja:**
 - [What is Azure Databricks?](https://learn.microsoft.com/azure/databricks/introduction/)
